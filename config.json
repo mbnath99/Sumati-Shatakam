@@ -1,0 +1,40 @@
+{
+  "series_title": "సుమతీ శతకము",
+  "handle": "@your_instagram_handle",
+  "credit_line": "భావం: Telugu Bhakti Pages (telugubhakti.com)",
+  "hashtags": [
+    "#సుమతీశతకం",
+    "#తెలుగుపద్యాలు",
+    "#నీతిపద్యాలు",
+    "#SumatiSatakam",
+    "#TeluguPoems",
+    "#Telugu",
+    "#Baddena"
+  ],
+  "start_date": "2026-10-20",
+  "order": "sequence",
+  "skip_flagged": false,
+  "extra_skip": [],
+  "after_last": "repeat",
+  "max_video_seconds": 58,
+  "text_animation": "typewriter",
+  "typing": {
+    "padyam_letters_per_second": 9,
+    "bhavam_letters_per_second": 16
+  },
+  "sound": {
+    "enabled": true,
+    "music": "tanpura",
+    "music_volume": 0.6,
+    "bell": true
+  },
+  "post_to": {
+    "instagram": true,
+    "instagram_story": false,
+    "youtube": true,
+    "facebook_page": false
+  },
+  "youtube_privacy": "public",
+  "graph_api_version": "v23.0",
+  "ntfy_topic": ""
+}
