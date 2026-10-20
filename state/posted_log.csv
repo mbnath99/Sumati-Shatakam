@@ -3,3 +3,5 @@ date,padyam,platform,status,detail,logged_at_utc
 2026-10-18,1,youtube,error,"('invalid_client: The OAuth client was not found.', {'error': 'invalid_client', 'error_description': 'The OAuth client was not found.'})",2026-10-18T18:14:35+00:00
 2026-10-19,1,instagram,ok,media 17874861456638805,2026-10-18T18:39:42+00:00
 2026-10-19,1,youtube,ok,https://youtube.com/shorts/Anm-gYu4vq4,2026-10-18T18:39:44+00:00
+2026-10-20,2,instagram,ok,media 18026094410866744,2026-10-20T01:20:01+00:00
+2026-10-20,2,youtube,ok,https://youtube.com/shorts/F0vY5HEmLD0,2026-10-20T01:20:03+00:00
