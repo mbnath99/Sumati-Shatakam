@@ -18,3 +18,5 @@ date,padyam,platform,status,detail,logged_at_utc
 2026-10-26,8,instagram,ok,media 17991831389860820,2026-10-26T01:53:03+00:00
 2026-10-26,8,youtube,error,"('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",2026-10-26T01:53:03+00:00
 2026-10-26,7,youtube,error,"('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",2026-10-26T05:44:35+00:00
+2026-10-27,9,instagram,ok,media 18076921589770854,2026-10-27T05:57:38+00:00
+2026-10-27,9,youtube,error,"('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",2026-10-27T05:57:38+00:00
