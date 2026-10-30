@@ -26,3 +26,5 @@ date,padyam,platform,status,detail,logged_at_utc
 2026-10-28,9,youtube,error,"('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",2026-10-28T17:02:37+00:00
 2026-10-29,11,instagram,ok,media 17985952092084560,2026-10-29T06:44:26+00:00
 2026-10-29,11,youtube,error,"('invalid_client: The provided client secret is invalid.', {'error': 'invalid_client', 'error_description': 'The provided client secret is invalid.'})",2026-10-29T06:44:27+00:00
+2026-10-30,12,instagram,error,500 Server Error: Internal Server Error for url: https://graph.instagram.com/v23.0/17841462407819000/media,2026-10-30T06:44:58+00:00
+2026-10-30,12,youtube,error,"('invalid_client: The provided client secret is invalid.', {'error': 'invalid_client', 'error_description': 'The provided client secret is invalid.'})",2026-10-30T06:44:59+00:00
