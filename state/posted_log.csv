@@ -38,3 +38,5 @@ date,padyam,platform,status,detail,logged_at_utc
 2026-11-03,16,youtube,error,"('invalid_client: The provided client secret is invalid.', {'error': 'invalid_client', 'error_description': 'The provided client secret is invalid.'})",2026-11-03T07:32:22+00:00
 2026-11-04,17,instagram,ok,media 18120808558981072,2026-11-04T07:13:49+00:00
 2026-11-04,17,youtube,error,"('invalid_client: The provided client secret is invalid.', {'error': 'invalid_client', 'error_description': 'The provided client secret is invalid.'})",2026-11-04T07:13:50+00:00
+2026-11-05,18,instagram,ok,media 17867851749680459,2026-11-05T07:40:31+00:00
+2026-11-05,18,youtube,error,"('invalid_client: The provided client secret is invalid.', {'error': 'invalid_client', 'error_description': 'The provided client secret is invalid.'})",2026-11-05T07:40:31+00:00
